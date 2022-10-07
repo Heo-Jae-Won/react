@@ -1,0 +1,36 @@
+.App {
+  width: 80%;
+  margin: 0px auto;
+  margin-top: 50px;
+}
+
+.main_menu a {
+  padding-right: 30px;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: skyblue;
+}
+
+.main_menu a:hover {
+  color:gray;
+}
+
+
+.sub_menu a {
+  padding-right: 30px;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: skyblue;
+}
+
+.sub_menu a:hover {
+  color:gray;
+}
+
+.grayButton {
+  margin-right: 10px;
+  border-radius: 5px;
+  border: none;
+  padding: 5px 20px;
+  barckground: #eeeeee;
+}
